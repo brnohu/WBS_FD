@@ -18,9 +18,6 @@
     <ClInclude Include="framework.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="gaussians.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="memorymanager.h">
       <Filter>Header Files</Filter>
     </ClInclude>

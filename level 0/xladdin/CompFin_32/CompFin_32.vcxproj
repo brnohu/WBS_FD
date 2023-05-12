@@ -12,7 +12,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h" />
-    <ClInclude Include="gaussians.h" />
     <ClInclude Include="memorymanager.h" />
     <ClInclude Include="MemoryPool.h" />
     <ClInclude Include="xlcall.h" />
