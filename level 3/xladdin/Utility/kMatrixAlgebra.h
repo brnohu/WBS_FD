@@ -97,7 +97,7 @@ namespace kMatrixAlgebra
 		kVector<V>&			x)
 	{
 		int n = A.rows()-1;
-		x.resize(n,m1+1+m2);
+		x.resize(n+1,m1+1+m2);
 		V xi;
 		for(int i = 0;i<=n;++i)
 		{
